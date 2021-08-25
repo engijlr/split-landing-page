@@ -1,7 +1,7 @@
 
 # Split Landing Page
 
-Este es mi primer proyecto
+Este es mi primer proyecto de Front end
 
 
 ## Authors
