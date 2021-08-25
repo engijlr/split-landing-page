@@ -1,7 +1,7 @@
 
 # Split Landing Page
 
-A brief description of what this project does and who it's for
+Este es mi primer proyecto
 
 
 ## Authors
